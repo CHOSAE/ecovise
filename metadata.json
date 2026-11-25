@@ -1,0 +1,6 @@
+{
+  "name": "Ecovise",
+  "description": "Diagnostic énergétique domestique, suivi des appareils, Éco-Store avec primes déduites et cagnotte de parrainage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
